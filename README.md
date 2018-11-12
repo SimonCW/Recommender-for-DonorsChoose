@@ -19,6 +19,6 @@ Other relevant methods:
 
 Links
 
-    Nice tfidf helper code: https://towardsdatascience.com/hacking-scikit-learns-vectorizers-9ef26a7170af
-    We started doing approximately the content based recommender from here: https://www.kaggle.com/ranliu/donor-project-matching-with-recommender-systems/code (with more code but different challenge here: https://www.kaggle.com/gspmoreira/recommender-systems-in-python-101/code)
+- Nice tfidf helper code: https://towardsdatascience.com/hacking-scikit-learns-vectorizers-9ef26a7170af
+- We started doing approximately the content based recommender from here: https://www.kaggle.com/ranliu/donor-project-matching-with-recommender-systems/code (with more code but different challenge here: https://www.kaggle.com/gspmoreira/recommender-systems-in-python-101/code)
 
