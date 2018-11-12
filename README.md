@@ -1,6 +1,6 @@
 # Recommender-for-DonorsChoose
 
-This notebook explores different approaches to helping DonorsChoose recommend the right project to right user. So far we have tried the following methods:
+This notebook explores different approaches to helping DonorsChoose recommend the right project to right user in this kaggle competition https://www.kaggle.com/donorschoose/io. So far we have tried the following methods:
 
 - Content-based recommendations using tfidf
   - tfidf project descriptions
